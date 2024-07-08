@@ -1,0 +1,3 @@
+First Program:
+	- Common cxx compiler, gcc
+	- Classic cmake build: gcc -o <output> <cfile> (gcc -o sample.exe sample.c)
